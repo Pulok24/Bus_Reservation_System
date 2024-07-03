@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.jsp.hospitalbootapp.dto.Hospital&apos; to &apos;Doctor&apos;&#x0D;&#x0A;- Original project: &apos;hospital-boot-app&apos;&#x0D;&#x0A;- Original element: &apos;org.jsp.hospitalbootapp.dto.Hospital&apos;&#x0D;&#x0A;- Renamed element: &apos;org.jsp.hospitalbootapp.dto.Doctor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hospital&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.jsp.hospitalbootapp.dto{Hospital.java[Hospital" matchStrategy="1" name="Doctor" qualified="false" references="true" similarDeclarations="false" stamp="1715496634811" textual="false" version="1.0"/>
+</session>

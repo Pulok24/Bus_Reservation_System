@@ -1,0 +1,12 @@
+package org.jsp.lombokpractice;
+
+public class TestEmployee {
+public static void main(String[] args) {
+	Employee e=new Employee(1,"sonu","Manager",80000,888777,"sonu@123");
+	e.setDesg("Project Manager");
+	System.out.println(e);
+	
+	Employee e2=new Employee();
+	e2.setDesg("Engineer");
+}
+}
